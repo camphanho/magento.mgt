@@ -79,9 +79,49 @@
             "type": "composer",
             "url": "https://repo.magento.com/"
         },
+        "mirasvit-pfe2": {
+            "type": "composer",
+            "url": "https://48039:DS7VHZTL19@packages.mirasvit.com/48039:DS7VHZTL19/"
+        },
+        "mirasvit-hdmx2": {
+            "type": "composer",
+            "url": "https://48040:WF2L3P8CB5@packages.mirasvit.com/48040:WF2L3P8CB5/"
+        },
+        "mirasvit-ecr2": {
+            "type": "composer",
+            "url": "https://48041:RCHLAQ0JZD@packages.mirasvit.com/48041:RCHLAQ0JZD/"
+        },
+        "mirasvit-pkt2": {
+            "type": "composer",
+            "url": "https://48042:U3NSYJ140R@packages.mirasvit.com/48042:U3NSYJ140R/"
+        },
+        "mirasvit-rwp2": {
+            "type": "composer",
+            "url": "https://48570:W86VIGSQ3F@packages.mirasvit.com/48570:W86VIGSQ3F/"
+        },
+        "mirasvit-gpo2": {
+            "type": "composer",
+            "url": "https://48571:3BQMTJDZPS@packages.mirasvit.com/48571:3BQMTJDZPS/"
+        },
         "mirasvit-tes2": {
             "type": "composer",
             "url": "https://48572:FY41XECRQJ@packages.mirasvit.com/48572:FY41XECRQJ/"
+        },
+        "mirasvit-ssc2": {
+            "type": "composer",
+            "url": "https://48573:CJDW2AF0GK@packages.mirasvit.com/48573:CJDW2AF0GK/"
+        },
+        "mirasvit-mpa2": {
+            "type": "composer",
+            "url": "https://51911:9DTOBWH01L@packages.mirasvit.com/51911:9DTOBWH01L/"
+        },
+        "mirasvit-dyc2": {
+            "type": "composer",
+            "url": "https://51912:MKXT6WDRUB@packages.mirasvit.com/51912:MKXT6WDRUB/"
+        },
+        "2": {
+            "type": "composer",
+            "url": "https://26020:KVC91ZQDJR@packages.mirasvit.com/"
         }
     },
     "extra": {
