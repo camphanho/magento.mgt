@@ -19,7 +19,8 @@
     "require": {
         "magento/product-community-edition": "2.4.5",
         "magento/composer-root-update-plugin": "~2.0",
-        "magento/composer-dependency-version-audit-plugin": "~0.1"
+        "magento/composer-dependency-version-audit-plugin": "~0.1",
+        "mirasvit/module-optimize": "*"
     },
     "autoload": {
         "exclude-from-classmap": [
@@ -73,12 +74,16 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "repositories": [
-        {
+    "repositories": {
+        "0": {
             "type": "composer",
             "url": "https://repo.magento.com/"
+        },
+        "mirasvit-tes2": {
+            "type": "composer",
+            "url": "https://48572:FY41XECRQJ@packages.mirasvit.com/48572:FY41XECRQJ/"
         }
-    ],
+    },
     "extra": {
         "magento-force": "override"
     }
